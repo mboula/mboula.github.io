@@ -1,15 +1,20 @@
-# Michelle Boula – Data Analytics Portfolio
+# Michelle Boula's Data Analytics Portfolio
 
-Welcome to my portfolio site. Projects will be added soon!
+Welcome! This space is under construction but here's what's coming:
 
-## Projects
-- SQL Project: Coming Soon
-- Capstone Project: Coming Soon
-- Excel Project: Coming Soon
+## 🔧 Projects
 
-## About Me
-I'm a data analyst blending operational insight with modern tools to find patterns that drive results.
+- **SQL Project** – Coming Soon  
+- **Capstone Project** – Coming Soon  
+- **Excel Project** – Coming Soon  
 
-## Contact
-- [LinkedIn](www.linkedin.com/in/emboula)
-- 📧 michelleeboula@gmail.com
+## 👩‍💻 About Me
+
+I'm a data analyst with a background in operations, system diagnostics, and risk mapping — currently focused on real estate insights and investor-facing analytics. 
+
+I turn patterns into direction, not just dashboards. 
+
+## 📫 Contact
+
+- [LinkedIn] (www.linkedin.com/in/emboula)
+- 📧 Email: michelleeboula@gmail.com
