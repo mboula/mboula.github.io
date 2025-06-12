@@ -16,5 +16,5 @@ I turn patterns into direction, not just dashboards.
 
 ## 📫 Contact
 
-- [LinkedIn] (https://www.linkedin.com/in/emboula)
+- [LinkedIn](https://www.linkedin.com/in/emboula)
 - 📧 Email: michelleeboula@gmail.com
