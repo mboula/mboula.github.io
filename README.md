@@ -4,37 +4,35 @@ Welcome! This is the central hub for my data analytics journey — blending tech
 
 ---
 
-## 🚧 Current Work
+## 🔎 Current Projects
 
-**🟢 [Cannabis Sales Insight] (https://github.com/mboula/Cannabis-Sales-Insight.git)**
-Forecasting retail cannabis trends using Connecticut sales data  
-→ Excel, SQL, dashboard planning, and inventory modeling
-
-**🟣 [Civil Rights Pattern Analysis (TX)] (https://github.com/mboula/TX-Civil-Rights-Pattern-Analysis.git)**
-Mapping procedural breakdowns in Texas Fair Housing enforcement  
-→ Google Sheets, Airtable, timeline tracking, pattern recognition
+### 🟢 [Cannabis Sales Insight](https://github.com/mboula/Cannabis-Sales-Insight)
+**Goal:** Forecast retail cannabis trends using official Connecticut sales data  
+**Tools:** Excel (cleaning, KPIs, dashboards), SQL (queries), inventory modeling
 
 ---
 
-## 🔧 Projects (Upcoming - Merit America)
+### 🟣 [Civil Rights Pattern Analysis (TX)](https://github.com/mboula/TX-Civil-Rights-Pattern-Analysis)
+**Goal:** Map procedural breakdowns in Texas Fair Housing enforcement  
+**Tools:** Google Sheets, Airtable, timeline tracking, pattern recognition
 
-- **SQL Project** – Coming Soon  
-- **Capstone Project** – Coming Soon  
-- **Excel Project** – Coming Soon  
+---
+
+## 📚 Merit America Projects (In Progress)
+
+- SQL Project — Coming Soon  
+- Excel Dashboard — Coming Soon  
+- Capstone Project — Coming Soon  
 
 ---
 
 ## 👩‍💻 About Me
 
-I'm a data analyst with a background in innovation ops, diagnostics, and compliance strategy. My specialty is **pattern analysis** — spotting systemic breakdowns and translating them into actionable insights.
+I’m a data analyst with a background in system diagnostics, risk mapping, and operational strategy. I specialize in turning patterns into direction — not just dashboards. Currently focused on:
 
-Whether it's housing discrimination trends or inventory velocity, I bring order to the chaos and direction to the data.
-
----
-
-## 🛠 Technical Skills
-- **Languages/Tools:** SQL, Excel, R, Tableau, Google Sheets
-- **Skills:** Data Cleaning, Visualization, Pattern Mapping, Compliance Logic
+- Real estate and civil rights data
+- Cannabis industry insights
+- Advocacy-driven analytics
 
 ---
 
