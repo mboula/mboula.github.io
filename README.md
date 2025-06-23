@@ -6,11 +6,11 @@ Welcome! This is the central hub for my data analytics journey — blending tech
 
 ## 🚧 Current Work
 
-**🟢 Cannabis Sales Insight**  
+**🟢 [Cannabis Sales Insight] (https://github.com/mboula/Cannabis-Sales-Insight.git)**
 Forecasting retail cannabis trends using Connecticut sales data  
 → Excel, SQL, dashboard planning, and inventory modeling
 
-**🟣 Civil Rights Pattern Analysis (TX)**  
+**🟣 [Civil Rights Pattern Analysis (TX)] (https://github.com/mboula/TX-Civil-Rights-Pattern-Analysis.git)**
 Mapping procedural breakdowns in Texas Fair Housing enforcement  
 → Google Sheets, Airtable, timeline tracking, pattern recognition
 
