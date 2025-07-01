@@ -2,9 +2,7 @@
   <img src="https://raw.githubusercontent.com/mboula/MichelleBoula/main/GitHubBanner.png" width="100%" alt="Michelle Boula Data Analyst — Cannabis, Compliance, Community">
 </p>
 
-# Michelle Boula's Data Analytics Portfolio
-
-Welcome! This is the central hub for my data analytics journey — blending technical skills with real-world impact in housing rights, cannabis trends, and operational strategy.
+Welcome! I'm so glad you're here! This is the central hub for my data analytics journey — blending technical skills with real-world impact in housing rights, cannabis trends, and operational strategy.
 
 ---
 
