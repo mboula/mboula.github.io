@@ -1,4 +1,4 @@
-<img src="https://github.com/mboula/mboula/blob/main/GitHubBanner.png" alt="Michelle Boula GitHub Banner" width="100%" />
+![Banner](https://github.com/mboula/mboula.github.io/blob/main/GitHubBanner.png?raw=true)
 
 
 Welcome! I'm so glad you're here! This is the central hub for my data analytics journey — blending technical skills with real-world impact in housing rights, cannabis trends, and operational strategy.
