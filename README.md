@@ -16,7 +16,7 @@ Welcome! I'm so glad you're here! This is the central hub for my data analytics 
 ### 🟣 [Civil Rights Pattern Analysis (TX)](https://github.com/mboula/TX-Civil-Rights-Pattern-Analysis)
 **Goal:** Map procedural breakdowns in Texas Fair Housing enforcement  
 **Tools:** Google Sheets, Airtable, timeline tracking, pattern recognition
-
+ 
 ---
 
 ## 📚 Merit America Projects (In Progress)
