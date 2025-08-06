@@ -13,7 +13,7 @@ Welcome! I'm so glad you're here! This is the central hub for my data analytics 
 
 
 ### 🟣 Colorado Cannabis Retail Trends (Coming Soon)
-**Goal:** Explore localized demand shifts and SKU movement in response to state regulation
+**Goal:** Explore localized demand shifts and SKU movement in response to state regulation  
 **Tools:** METRC data (if accessible), Excel, market research, Tableau
  
 ---
