@@ -1,7 +1,7 @@
 ![Banner](https://github.com/mboula/mboula.github.io/blob/main/GitHubBanner.png?raw=true)
 
 
-Welcome! I'm so glad you're here! This is the central hub for my data analytics journey — blending technical skills with real-world impact in housing rights, cannabis trends, and operational strategy.
+Welcome! I'm so glad you're here! This is the central hub for my data analytics journey — blending technical tools with real-world impact in cannabis compliance, retail trends, and operational risk strategy.
 
 ---
 
@@ -13,9 +13,9 @@ Welcome! I'm so glad you're here! This is the central hub for my data analytics 
 
 ---
 
-### 🟣 [Civil Rights Pattern Analysis (TX)](https://github.com/mboula/TX-Civil-Rights-Pattern-Analysis)
-**Goal:** Map procedural breakdowns in Texas Fair Housing enforcement  
-**Tools:** Google Sheets, Airtable, timeline tracking, pattern recognition
+### 🟣 Colorado Cannabis Retail Trends (Coming Soon)
+**Goal:** Explore localized demand shifts and SKU movement in response to state regulation
+**Tools:** METRC data (if accessible), Excel, market research, Tableau
  
 ---
 
@@ -23,17 +23,23 @@ Welcome! I'm so glad you're here! This is the central hub for my data analytics 
 
 - SQL Project — Coming Soon  
 - Excel Dashboard — Coming Soon  
-- Capstone Project — Coming Soon  
+- Capstone Project — Coming Soon
+
+---
+
+### 🛠️ Focus: Compliance → Retail → Cultivation
+I build tools that track how compliance rules affect retail availability, and how retail demand can inform smarter cultivation decisions.
+This ecosystem is full of noise. My goal is to surface clear, data-backed insights across the cannabis supply chain.
 
 ---
 
 ## 👩‍💻 About Me
 
-I’m a data analyst with a background in system diagnostics, risk mapping, and operational strategy. I specialize in turning patterns into direction — not just dashboards. Currently focused on:
+I’m a data analyst with a background in system diagnostics, risk mapping, and compliance workflows. I specialize in turning patterns into direction — not just dashboards. Currently focused on:
 
-- Real estate and civil rights data
-- Cannabis industry insights
-- Advocacy-driven analytics
+- Cannabis compliance (federal & state)
+- Retail trend tracking
+- Cultivation signals
 
 ---
 
