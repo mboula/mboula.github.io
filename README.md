@@ -11,7 +11,6 @@ Welcome! I'm so glad you're here! This is the central hub for my data analytics 
 **Goal:** Forecast retail cannabis trends using official Connecticut sales data  
 **Tools:** Excel (cleaning, KPIs, dashboards), SQL (queries), inventory modeling
 
----
 
 ### 🟣 Colorado Cannabis Retail Trends (Coming Soon)
 **Goal:** Explore localized demand shifts and SKU movement in response to state regulation
